@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ilhamsyhs
-- 👀 I’m interested in doing projects in small team, do Manual and Automation Testing for Web and API
+- 👀 I’m training for Quality Engineer on Alterra Academy. I'm interested in doing projects in small team, do Manual and Automation Testing for Web and API
 - 🌱 I’m currently learning Java Programming, Selenium, RESTful API, Serenity BDD, Appium.
 - 📫 How to reach me 
       # LinkedIn www.linkedin.com/in/ilhamsyahrulsa
